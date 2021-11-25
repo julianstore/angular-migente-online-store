@@ -131,28 +131,28 @@ npm start
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please first read the
-[issue guidelines](https://github.com/Eric-web-ctrl/angular-sample/blob/master/CONTRIBUTING.md)
+[issue guidelines](https://github.com/julianstore/angular-sample/blob/master/CONTRIBUTING.md)
 and search for existing and closed issues. If your problem or idea is not addressed yet,
-[please open a new issue](https://github.com/Eric-web-ctrl/angular-sample/issues/new).
+[please open a new issue](https://github.com/julianstore/angular-sample/issues/new).
 
 ## Contributing
 
 Please read through our
-[contributing guidelines](https://github.com/Eric-web-ctrl/angular-sample/blob/master/CONTRIBUTING.md).
+[contributing guidelines](https://github.com/julianstore/angular-sample/blob/master/CONTRIBUTING.md).
 Included are directions for opening issues, coding standards, and notes on development.
 
 Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide),
-maintained by [Ismael Ramos](https://github.com/ericjulian).
+maintained by [Ismael Ramos](https://github.com/julianstore).
 
 Editor preferences are available in the
-[editor config](https://github.com/Eric-web-ctrl/angular-sample/blob/master/.editorconfig) for
+[editor config](https://github.com/julianstore/angular-sample/blob/master/.editorconfig) for
 easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 ## Creators
 
-**github.com/Eric-web-ctrl/angular-sample**
+**github.com/julianstore/angular-sample**
 
-- <https://github.com/ericjulian>
+- <https://github.com/julianstore>
 
 ## Thanks
 
@@ -164,6 +164,6 @@ your feedback!
 ## Copyright and license
 
 Code and documentation copyright 2021 the authors. Code released under the
-[MIT License](https://github.com/Eric-web-ctrl/angular-sample/blob/master/LICENSE).
+[MIT License](https://github.com/julianstore/angular-sample/blob/master/LICENSE).
 
 Enjoy :metal:
